@@ -1,4 +1,4 @@
-# Introductory Web 3
+# Introductory Crypto
 Over the past decade the field of crypto currency has exploded in popularity.  Backed by a tecnology called 'blockchains' crypto technologies have emerged as a major disruptor to many tech sectors.  While originally designed for creating currency, blockchains have evolved and are now being used to power applications in a 'decentralized' network. The term Web 3 refers to a new phase of the internet focused on peer-to-peer networks with no central authority all secyred by powerful cryptography.
 
 # Some History Of The Web
@@ -27,6 +27,8 @@ Web 3 technology relies on the use of blockchain technology and something called
 
 ## Web 3 Terminology
 Web 3 has a lot of hype surrounding it and words like "Dapp", "Gas", and "Mining" are often thrown around.  In order to understand how web3 apps are structured we need to understand these concepts before we can begin to build applications for this new internet.
+### Cryptocurrency
+Cryptocurrency is a digital payment system that doesn't rely on banks to verify transactions. It’s a peer-to-peer system that can enable anyone anywhere to send and receive payments. Instead of being physical money carried around and exchanged in the real world, cryptocurrency payments exist purely as digital entries to an online database describing specific transactions. When you transfer cryptocurrency funds, the transactions are recorded in a public ledger. Cryptocurrency is stored in digital wallets.  Crypto curencies are form the backbone for all Web 3 apps and transactions.
 ### Blocks
 A block is an individual unit of storage that holds information in a database known as a blockchain.  A Block is very similar to the node of a Linked List. Blocks have a limited ammount of storage but always have a link to the block that came before them, unless they are the original block (which we will never have to worry about!). When we organize blocks together we create a Blockchain, which is the backbone of all Web 3 technology.
 
@@ -68,11 +70,20 @@ A private key is an extremely large number that is used in cryptography, similar
 
 The term mining can mean different things on different blockchains but always refers to some form of computational work being done to the distributed ledger.  Minnig can be energy spent creating new coins to add to the ledger or for validating transactions on the blockchain between different parties.  The two common forms of mining are Proof Of Work (Bitcoin) and Proof Of Stake (Ethereum 2.0).
 
-### Proof-OF-Work
+### Proof-Of-Work
 
 Crypto mining is similar to the work done in actual physical mining.  Rather than pulling precious metals or gems from the ground, crypto miners trigger the release of new coins into  circulation.
 
 For miners to be rewarded for their work, they must use their machine to solve incredibly complex mathemetical equiations.  Each transaction on the blockchain will create a specific signautre, called a Hash.  
 Once a transaction has been created miners will compete with one another to zero in on the hash value it created.  The first miner to crack the code adds the block to the ledger and the new ledger is distributed across all the nodes in the network and the miner who did the work receives a reward.
 
-![Proof of work diagram](./assets/pos.png)
+As Bitcoin grew in popularity, the ammount of miners attempting to validate new transactions grew as well.  This growth meant a huge uptick in power required to consistently mine bitcoin.  
+![Proof of work diagram](./assets/pow.png)
+
+### Proof-Of-Stake
+
+Another, new method for validating transactions on the Blockchain is Proof Of Stake.  Rather than having miners compete to be the first to solve a very complicated math equation, when a block of transactions is ready to be processed, the cryptocurrency's proof-of-stake protocol will choose a validator node to review the block. The validator checks if the transactions in the block are accurate. If so, they add the block to the blockchain and receive crypto rewards for their contribution. However, if a validator proposes adding a block with inaccurate information, they lose some of their staked holdings as a penalty.  
+
+This model rewards miners for staking more of their coin and uses much less electricity than Proof of work.  Additionally, miners are not required to obtain powerful, specialized computers in order to mine.
+
+![Proof of stake diagram](./assets/pos.png)
