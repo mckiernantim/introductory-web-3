@@ -1,22 +1,22 @@
 # Introductory Crypto
 Over the past decade the field of crypto currency has exploded in popularity.  Backed by a tecnology called 'blockchains' crypto technologies have emerged as a major disruptor to many tech sectors.  While originally designed for creating currency, blockchains have evolved and are now being used to power applications in a 'decentralized' network. The term Web 3 refers to a new phase of the internet focused on peer-to-peer networks with no central authority all secyred by powerful cryptography.
 
-# Some History Of The Web
+## Some History Of The Web
 The history of the web can be broken down into three phases.
 
-## Web 1.0 
+### Web 1.0 
 The first stage of the internet  spanning roughly the years 1990-2000.  Web 1.0 is considered 'read-only' with very little user generated content. Users mostly navigated to websites and consumed static pages and rarely did they interact with one another or create financial transactions.
 
 ![Web 1.0 image.](./assets/web1.png)
 
-## Web 2.0
+### Web 2.0
 The current version of the web roughly spanning the years 2000-present.   Increases if internet speed and figer optic infrastructure allowed for the evolution of streaming content and coud based infrastructre.  Encryption technologies also made financial interactions via the internet far more secure than they were in web 1. Web 2.0 is also the era of the social web.
 
 
 Companies like Google, Amazon, and Facebook provide users services in exchange for their data. These companies then sell the user data for a profit and control is centralized in the hands of the companies that provide the service.  Web 2.0 made publishing content to the internet something everyone in the world could do with little to no training. However, the rise of data as a commodity has rasied many ethical concerns over privacy, censorship, and ultimately what role companies that provide a service should have with the data they get from their users.
 ![Web 2.0 image.](./assets/web2.png)
 
-## Web 3.0
+### Web 3.0
 
 The term Web 3 refers to a version of the interent that is fundamentally decentralized.  Rather than applications being controlled by massive companies like Google or Amazon, computational power is shared among numerous devices and blockchain technology insures that data is open, accessable, and decentralized, not hoarded by large companies.  
 Web 3 technology relies on the use of blockchain technology and something called Smart Contracts to execute applications that run on open and available data sources.  Web 3 apps are not controlled by any central authority but rather are linked to the blockchain that they exist on in order to run.
