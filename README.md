@@ -81,8 +81,9 @@ As Bitcoin grew in popularity, the ammount of miners attempting to validate new 
 
 While the sucess of Bitcoin has shown that Blockchains and proof of work do in fact work, the proof of work paradigm has created an arms race between miners.  As a result the amount of power needed to effectively mine bitcoin has skyrocketed and currently the amount of power used just to mine Bitcoin now equals the output of the entire nation of [Chile](https://www.dallan.com/en/news/bitcoins-energy-consumption-greater-than-chile-austria-and-the-czech-republic/)
 <br>
-
-<img  src="./assets/pow.png" style="width:600px; height:450px"/> 
+<div align="center">
+  <img  src="./assets/pow.png" style="width:600px; height:450px"/> 
+ </div>
 
 ### Proof-Of-Stake
 
