@@ -7,21 +7,27 @@ The history of the web can be broken down into three phases.
 ### Web 1.0 
 The first stage of the internet  spanning roughly the years 1990-2000.  Web 1.0 is considered 'read-only' with very little user generated content. Users mostly navigated to websites and consumed static pages and rarely did they interact with one another or create financial transactions.
 
-![Web 1.0 image.](./assets/web1.png)
+<div align="center">
+  <img  src="./assets/web1.png" style="width:600px; height:450px"/> 
+ </div>
 
 ### Web 2.0
 The current version of the web roughly spanning the years 2000-present.   Increases if internet speed and fiber optic infrastructure allowed for the evolution of streaming content and coud based infrastructre.  Encryption technologies also made financial interactions via the internet far more secure than they were in web 1. Web 2.0 is also the era of the social web.
 
 
 Web 2.0 made publishing content to the internet something everyone in the world could do with little to no training. Companies like Google, Amazon, and Facebook provide users services in exchange for their data. These companies then sell the user data for a profit and control is centralized in the hands of the companies that provide the service.  However, the rise of data as a commodity has rasied many ethical concerns over privacy, censorship, and ultimately what role companies that provide a service should have with the data they get from their users.
-![Web 2.0 image.](./assets/web2.png)
+<div align="center">
+  <img  src="./assets/1web2.png" style="width:600px; height:450px"/> 
+ </div>
 
 ### Web 3.0
 
 The term Web 3 refers to a version of the interent that is fundamentally decentralized.  Rather than applications being controlled by massive companies like Google or Amazon, computational power is shared among numerous devices and blockchain technology insures that data is open, accessable, and decentralized, not hoarded by large companies.  In essence, the users dictate what is done with their data.  
 Web 3 technology relies on the use of blockchain technology and something called Smart Contracts to execute applications that run on open and available data sources.  Web 3 apps are not controlled by any central authority but rather are linked to the blockchain that they exist on in order to run.  These blockchains are open and accessable meaning nothing is ever hidden from the users.
 
-![Web 3.0 image.](./assets/web3.png)
+<div align="center">
+  <img  src="./assets/web3.png" style="width:800px; height:550px"/> 
+ </div>
 
 
 
@@ -37,9 +43,9 @@ A block is an individual unit of storage that holds information in a database kn
 One way to think of a blockchain is like ledger for a bank.  Imagine a record of every financial transaction that ever happened involving the US Dollar since it was invented.  That list would be <em>enormous</em> but with powerful enough computers it would be possible.  The Bitcoin blockchain is essentially that same concept, a continual record of every bitcoin transaction that has every been made.
 
 Fun fact: as of 3/26/2022 the current [bitcoin ledger](https://ycharts.com/indicators/bitcoin_blockchain_size) is 397.53 GB of data.  This very large file is then distributed across an entire network of computers all over the world.
-
-![Web 3.0 image.](./assets/blockchain.png)
-
+<div align="center">
+  <img  src="./assets/blockchain.png" style="width:600px; height:450px"/> 
+ </div>
 Each Block has a limited amount of storage.  Once filled, a new block is created and the new block points to the previous block which in turn points to its previous block forming a chain or Blockchain.
 This ordering creates a chronological record of everything that happens on the blockchain and as a result, an open record of every transaction that the blockchain has ever made.  
 
@@ -92,5 +98,6 @@ Another, new method for validating transactions on the Blockchain is Proof Of St
 This model rewards miners for staking more of their coin and uses much less electricity than Proof of work.  Additionally, miners are not required to obtain powerful, specialized computers in order to mine.
 
 
-
-![Proof of stake diagram](./assets/pos.png)
+<div align="center">
+  <img  src="./assets/pos.png" style="width:600px; height:450px"/> 
+ </div>
