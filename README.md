@@ -77,13 +77,17 @@ For miners to be rewarded for their work, they must use their machine to solve i
 Once a transaction has been created miners will compete with one another to zero in on the hash value it created.  The first miner to crack the code adds the block to the ledger and the new ledger is distributed across all the nodes in the network and the miner who did the work receives a reward, usually in the form of cryptocurrency or in some cases a small transaction fee sometimes refered to as "gas".
 
 As Bitcoin grew in popularity, the ammount of miners attempting to validate new transactions grew as well.  This growth meant a huge uptick in power required to consistently mine bitcoin and as a result Bitcoin Hashes became much much more difficult to solve.
-![Proof of work diagram](./assets/pow.png)
 
-While the sucess of Bitcoin has shown that Blockchains and proof of work do in fact work, the proof of work paradigm has created an arms race between miners.  As a result the amount of power needed to effectively mine bitcoin has skyrocketed and currently the amount of power used just to mine Bitcoin now equals the output of the entire nation of [Chile](https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html)
+
+While the sucess of Bitcoin has shown that Blockchains and proof of work do in fact work, the proof of work paradigm has created an arms race between miners.  As a result the amount of power needed to effectively mine bitcoin has skyrocketed and currently the amount of power used just to mine Bitcoin now equals the output of the entire nation of [Chile](https://www.dallan.com/en/news/bitcoins-energy-consumption-greater-than-chile-austria-and-the-czech-republic/)
+
+![Proof of work diagram](./assets/pow.png)
 ### Proof-Of-Stake
 
 Another, new method for validating transactions on the Blockchain is Proof Of Stake.  Rather than having miners compete to be the first to solve a very complicated math equation, when a block of transactions is ready to be processed, the cryptocurrency's proof-of-stake protocol will choose a validator node to review the block. The validator checks if the transactions in the block are accurate. If so, they add the block to the blockchain and receive crypto rewards for their contribution. However, if a validator proposes adding a block with inaccurate information, they lose some of their staked holdings as a penalty.  
 
 This model rewards miners for staking more of their coin and uses much less electricity than Proof of work.  Additionally, miners are not required to obtain powerful, specialized computers in order to mine.
+
+
 
 ![Proof of stake diagram](./assets/pos.png)
