@@ -1,5 +1,5 @@
 # Introductory Crypto
-Over the past decade the field of crypto currency has exploded in popularity.  Backed by a tecnology called 'blockchains' crypto technologies have emerged as a major disruptor to many tech sectors.  While originally designed for creating currency, blockchains have evolved and are now being used to power applications in a 'decentralized' network. The term Web 3 refers to a new phase of the internet focused on peer-to-peer networks with no central authority all secyred by powerful cryptography.
+Over the past decade the field of crypto currency has exploded in popularity.  Backed by a tecnology called 'blockchains' crypto technologies have emerged as a new player and a possible major disruptor to many tech sectors.  While originally designed for creating currency, blockchains have evolved and are now being used to power applications in a 'decentralized' network. The term Web 3 refers to a new phase of the internet focused on peer-to-peer networks with no central authority all secyred by powerful cryptography.
 
 ## Some History Of The Web
 The history of the web can be broken down into three phases.
