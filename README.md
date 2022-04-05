@@ -44,7 +44,7 @@ One way to think of a blockchain is like ledger for a bank.  Imagine a record of
 
 Fun fact: as of 3/26/2022 the current [bitcoin ledger](https://ycharts.com/indicators/bitcoin_blockchain_size) is 397.53 GB of data.  This very large file is then distributed across an entire network of computers all over the world.
 <div align="center">
-  <img  src="./assets/blockchain.png" style="width:600px; height:450px"/> 
+  <img  src="./assets/blockchain.png" /> 
  </div>
 Each Block has a limited amount of storage.  Once filled, a new block is created and the new block points to the previous block which in turn points to its previous block forming a chain or Blockchain.
 This ordering creates a chronological record of everything that happens on the blockchain and as a result, an open record of every transaction that the blockchain has ever made.  
