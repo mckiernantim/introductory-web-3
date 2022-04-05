@@ -10,23 +10,23 @@ The first stage of the internet  spanning roughly the years 1990-2000.  Web 1.0 
 ![Web 1.0 image.](./assets/web1.png)
 
 ### Web 2.0
-The current version of the web roughly spanning the years 2000-present.   Increases if internet speed and figer optic infrastructure allowed for the evolution of streaming content and coud based infrastructre.  Encryption technologies also made financial interactions via the internet far more secure than they were in web 1. Web 2.0 is also the era of the social web.
+The current version of the web roughly spanning the years 2000-present.   Increases if internet speed and fiber optic infrastructure allowed for the evolution of streaming content and coud based infrastructre.  Encryption technologies also made financial interactions via the internet far more secure than they were in web 1. Web 2.0 is also the era of the social web.
 
 
-Companies like Google, Amazon, and Facebook provide users services in exchange for their data. These companies then sell the user data for a profit and control is centralized in the hands of the companies that provide the service.  Web 2.0 made publishing content to the internet something everyone in the world could do with little to no training. However, the rise of data as a commodity has rasied many ethical concerns over privacy, censorship, and ultimately what role companies that provide a service should have with the data they get from their users.
+Web 2.0 made publishing content to the internet something everyone in the world could do with little to no training. Companies like Google, Amazon, and Facebook provide users services in exchange for their data. These companies then sell the user data for a profit and control is centralized in the hands of the companies that provide the service.  However, the rise of data as a commodity has rasied many ethical concerns over privacy, censorship, and ultimately what role companies that provide a service should have with the data they get from their users.
 ![Web 2.0 image.](./assets/web2.png)
 
 ### Web 3.0
 
-The term Web 3 refers to a version of the interent that is fundamentally decentralized.  Rather than applications being controlled by massive companies like Google or Amazon, computational power is shared among numerous devices and blockchain technology insures that data is open, accessable, and decentralized, not hoarded by large companies.  
-Web 3 technology relies on the use of blockchain technology and something called Smart Contracts to execute applications that run on open and available data sources.  Web 3 apps are not controlled by any central authority but rather are linked to the blockchain that they exist on in order to run.
+The term Web 3 refers to a version of the interent that is fundamentally decentralized.  Rather than applications being controlled by massive companies like Google or Amazon, computational power is shared among numerous devices and blockchain technology insures that data is open, accessable, and decentralized, not hoarded by large companies.  In essence, the users dictate what is done with their data.  
+Web 3 technology relies on the use of blockchain technology and something called Smart Contracts to execute applications that run on open and available data sources.  Web 3 apps are not controlled by any central authority but rather are linked to the blockchain that they exist on in order to run.  These blockchains are open and accessable meaning nothing is ever hidden from the users.
 
 ![Web 3.0 image.](./assets/web3.png)
 
 
 
 ## Web 3 Terminology
-Web 3 has a lot of hype surrounding it and words like "Dapp", "Gas", and "Mining" are often thrown around.  In order to understand how web3 apps are structured we need to understand these concepts before we can begin to build applications for this new internet.
+Web 3 has a lot of hype surrounding it and words like "Dapp", "Gas", and "Mining" are often thrown around.  In order to understand how web3 apps are structured we need to understand these concepts before we can begin to build applications for this new paradigm of the internet.
 ### Cryptocurrency
 Cryptocurrency is a digital payment system that doesn't rely on banks to verify transactions. It’s a peer-to-peer system that can enable anyone anywhere to send and receive payments. Instead of being physical money carried around and exchanged in the real world, cryptocurrency payments exist purely as digital entries to an online database describing specific transactions. When you transfer cryptocurrency funds, the transactions are recorded in a public ledger. Cryptocurrency is stored in digital wallets.  Crypto curencies are form the backbone for all Web 3 apps and transactions.
 ### Blocks
