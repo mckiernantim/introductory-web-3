@@ -80,7 +80,7 @@ The term mining can mean different things on different blockchains but always re
 Crypto mining is similar to the work done in actual physical mining.  Rather than pulling precious metals or gems from the ground, crypto miners trigger the release of new coins into circulation or use their power to validate certain transactions or smart contracts.
 
 For miners to be rewarded for their work, they must use their machine to solve incredibly complex mathemetical equiations.  Each transaction on the blockchain will create a specific signautre, called a Hash.  
-Once a transaction has been created miners will compete with one another to zero in on the hash value it created.  The first miner to crack the code adds the block to the ledger and the new ledger is distributed across all the nodes in the network and the miner who did the work receives a reward, usually in the form of cryptocurrency or in some cases a small transaction fee sometimes refered to as "gas".
+Once a transaction has been created miners will compete with one another to zero in on the hash value it created.  The first miner to crack the code adds the block to the ledger and the new ledger is distributed across all the nodes in the network and the miner who did the work receives a reward in the form of a block - usually a new crypto coin.
 
 As Bitcoin grew in popularity, the ammount of miners attempting to validate new transactions grew as well.  This growth meant a huge uptick in power required to consistently mine bitcoin and as a result Bitcoin Hashes became much much more difficult to solve.
 
@@ -93,7 +93,7 @@ While the sucess of Bitcoin has shown that Blockchains and proof of work do in f
 
 ### Proof-Of-Stake
 
-Another, new method for validating transactions on the Blockchain is Proof Of Stake.  Rather than having miners compete to be the first to solve a very complicated math equation, when a block of transactions is ready to be processed, the cryptocurrency's proof-of-stake protocol will choose a validator node to review the block. The validator checks if the transactions in the block are accurate. If so, they add the block to the blockchain and receive crypto rewards for their contribution. However, if a validator proposes adding a block with inaccurate information, they lose some of their staked holdings as a penalty.  
+Another, new method for validating transactions on the Blockchain is Proof Of Stake.  Rather than having miners compete to be the first to solve a very complicated math equation, when a block of transactions is ready to be processed, the cryptocurrency's proof-of-stake protocol will choose a validator node to review the block. The validator checks if the transactions in the block are accurate. If so, they add the block to the blockchain and receive crypto rewards for their contribution.  This contribution is refered to as "gas" and is a small fee that scales in relation to the ammount of power the transaction required.   However, if a validator proposes adding a block with inaccurate information, they lose some of their staked holdings as a penalty.  
 
 This model rewards miners for staking more of their coin and uses much less electricity than Proof of work.  Additionally, miners are not required to obtain powerful, specialized computers in order to mine.
 
