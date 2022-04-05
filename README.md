@@ -80,8 +80,10 @@ As Bitcoin grew in popularity, the ammount of miners attempting to validate new 
 
 
 While the sucess of Bitcoin has shown that Blockchains and proof of work do in fact work, the proof of work paradigm has created an arms race between miners.  As a result the amount of power needed to effectively mine bitcoin has skyrocketed and currently the amount of power used just to mine Bitcoin now equals the output of the entire nation of [Chile](https://www.dallan.com/en/news/bitcoins-energy-consumption-greater-than-chile-austria-and-the-czech-republic/)
-<img  src="./assets/pow.png" style="width:450px; height:450px"/> 
-![Proof of work diagram](./assets/pow.png)
+<br>
+
+<img  src="./assets/pow.png" style="width:450px; height:600px"/> 
+
 ### Proof-Of-Stake
 
 Another, new method for validating transactions on the Blockchain is Proof Of Stake.  Rather than having miners compete to be the first to solve a very complicated math equation, when a block of transactions is ready to be processed, the cryptocurrency's proof-of-stake protocol will choose a validator node to review the block. The validator checks if the transactions in the block are accurate. If so, they add the block to the blockchain and receive crypto rewards for their contribution. However, if a validator proposes adding a block with inaccurate information, they lose some of their staked holdings as a penalty.  
