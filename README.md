@@ -8,7 +8,7 @@ The history of the web can be broken down into three phases.
 The first stage of the internet  spanning roughly the years 1990-2000.  Web 1.0 is considered 'read-only' with very little user generated content. Users mostly navigated to websites and consumed static pages and rarely did they interact with one another or create financial transactions.
 
 <div align="center">
-  <img  src="./assets/web1.png" style="width:600px; height:450px"/> 
+  <img  src="./assets/web1.png" /> 
  </div>
 
 ### Web 2.0
@@ -17,7 +17,7 @@ The current version of the web roughly spanning the years 2000-present.   Increa
 
 Web 2.0 made publishing content to the internet something everyone in the world could do with little to no training. Companies like Google, Amazon, and Facebook provide users services in exchange for their data. These companies then sell the user data for a profit and control is centralized in the hands of the companies that provide the service.  However, the rise of data as a commodity has rasied many ethical concerns over privacy, censorship, and ultimately what role companies that provide a service should have with the data they get from their users.
 <div align="center">
-  <img  src="./assets/1web2.png" style="width:600px; height:450px"/> 
+  <img  src="./assets/web2.png" /> 
  </div>
 
 ### Web 3.0
@@ -26,7 +26,7 @@ The term Web 3 refers to a version of the interent that is fundamentally decentr
 Web 3 technology relies on the use of blockchain technology and something called Smart Contracts to execute applications that run on open and available data sources.  Web 3 apps are not controlled by any central authority but rather are linked to the blockchain that they exist on in order to run.  These blockchains are open and accessable meaning nothing is ever hidden from the users.
 
 <div align="center">
-  <img  src="./assets/web3.png" style="width:800px; height:550px"/> 
+  <img  src="./assets/web3.png" /> 
  </div>
 
 
